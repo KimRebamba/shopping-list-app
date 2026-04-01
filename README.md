@@ -5,7 +5,9 @@ A simple Android application using Jetpack Compose & Kotlin for your grocery nee
 # Features
 - Add, Edit, and Delete Items
 
-| ![Add Demo](demo/demo-1.gif) | ![Edit Demo](demo/demo-2.gif) | ![Delete Demo](demo/demo-3.gif) |
+![Add Demo](demo/demo-1.gif)  <br>
+![Edit Demo](demo/demo-2.gif) <br>
+![Delete Demo](demo/demo-3.gif) <br>
 
 # Where next?
 - It would be cool to have room database (been hearing that a lot)
